@@ -6,7 +6,7 @@
 
 ## 最新文章
 
-- [如何学习编程](blog/how-to-learn-programming.md)
+- [黑马redis实战篇笔记](2024/1/17.html)
 - [我的创意项目](blog/my-creative-projects.md)
 
 ## 我的项目
